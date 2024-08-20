@@ -3,11 +3,11 @@
 ### Here's my work:
 🎵 [Vinyl Store](https://echoes-of-vinyl.netlify.app/) - [Repo](https://github.com/sunlaa/eCommerce-Application)
 
-💬 [Fun Chat](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/fun-chat/) - [Repo](https://github.com/sunlaa/rs-projects/tree/fun-chat)
+💬 [Fun Chat](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/fun-chat/) - [Repo](https://github.com/sunlaa/rs-projects/tree/fun-chat)  
 [Server](https://github.com/rolling-scopes-school/fun-chat-server/tree/main) run required
 
 
-🚗 [Async Race](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/async-race/) -- [Repo](https://github.com/sunlaa/rs-projects/tree/async-race)
+🚗 [Async Race](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/async-race/) - [Repo](https://github.com/sunlaa/rs-projects/tree/async-race)  
 [Server](https://github.com/mikhama/async-race-api) run required
 
 
