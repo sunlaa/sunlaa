@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 ### Here's my work:
-| 🎨 Project       | 🔗 Demo Link                                                                                      | 📂 Repo Link                                                                                              |
+| 🎨 Project       | 🔗 Deploy                                                                                      | 📂 Repo Link                                                                                              |
 |------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | 🎵 Vinyl Store   | [View](https://echoes-of-vinyl.netlify.app/)                                                     | [Repo](https://github.com/sunlaa/eCommerce-Application)                                                   |
 | 💬 Fun Chat      | [View](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/fun-chat/) ([Server](https://github.com/rolling-scopes-school/fun-chat-server/tree/main) run required)                      | [Repo](https://github.com/sunlaa/rs-projects/tree/fun-chat)                                               |
