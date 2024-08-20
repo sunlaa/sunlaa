@@ -11,4 +11,5 @@
 | ☕ Coffee House  | [View](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/coffee-house/home.html)          | [Repo](https://github.com/sunlaa/rs-projects/tree/coffee-house-week3)                                     |
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunlaa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunlaa&layout=compact) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sunlaa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
