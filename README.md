@@ -7,7 +7,7 @@
 [Server](https://github.com/rolling-scopes-school/fun-chat-server/tree/main) run required
 
 
-🚗 [Async Race](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/async-race/) - [Repo](https://github.com/sunlaa/rs-projects/tree/async-race)
+🚗 [Async Race](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/async-race/) -- [Repo](https://github.com/sunlaa/rs-projects/tree/async-race)
 [Server](https://github.com/mikhama/async-race-api) run required
 
 
@@ -20,4 +20,4 @@
 ☕ [Coffe house](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/coffee-house/home.html) - [Repo](https://github.com/sunlaa/rs-projects/tree/coffee-house-week3)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunlaa)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunlaa&layout=compact)
